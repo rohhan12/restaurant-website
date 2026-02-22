@@ -3,13 +3,13 @@ A full-stack restaurant website built using PHP and MySQL that allows users to b
 
 **Features:**
 
-Dynamic menu from database
-Table reservation system
+Dynamic menu from database,
+Table reservation system,
 Admin login panel
 
 **Tech Stack:**
 
-PHP
+PHP,
 JavaScript
 
 **Live Demo:**
